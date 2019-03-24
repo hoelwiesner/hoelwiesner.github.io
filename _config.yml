@@ -1,7 +1,7 @@
 # Site
 title:              Hoël Wiesner
 bio:                'Power grid analyst interested in market inefficiencies'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Personal website for Hoël Wiesner"
 reading_time:       False
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -9,6 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://hoelwiesner.github.io/
+url:                https://hoelwiesner.com
 
 # Jekyll
 permalink:          /:title/
