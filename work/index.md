@@ -12,7 +12,7 @@ comments: false
 * Masters of Environmental Management, Concentration in Energy Economics
 * Certificate in Geospatial Analysis
 
-### Duke Universit
+### Duke University
 #### May 2015
 * B.S. in Economics
 * Certificate in Energy and the Environment
