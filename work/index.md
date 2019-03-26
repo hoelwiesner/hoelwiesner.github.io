@@ -12,7 +12,11 @@ comments: false
 * Dev
 * Stakeholder process
 
-## Preview
+### Duke Energy Data Analytics Lab, *Research Project Manager*
+* images
+* lead students
+
+## sub heading
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
