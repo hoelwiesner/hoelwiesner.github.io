@@ -1,24 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Work Experience
+tags: [about, Jekyll, work, experience]
+date: 2018-03-26
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## New York Independent System Operator
+### Associate Analyst
+* Auctions
+* Dev
+* Stakeholder process
+*
 
 ## Preview
 
