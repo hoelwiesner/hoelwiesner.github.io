@@ -7,11 +7,10 @@ comments: false
 ---
 
 ## New York Independent System Operator
-### Associate Analyst
+### *Associate Analyst*
 * Auctions
 * Dev
 * Stakeholder process
-*
 
 ## Preview
 
