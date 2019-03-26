@@ -37,8 +37,8 @@ September 2015 - April 2016
 
 ### International Energy Agency, *Renewable Energy Division Intern*
 #### Summer 2014
-*
-*
+* blah
+* blah blah
 
 ### Fuqua School of Business, *Research Assistant for Professor Leslie Marx*
 October 2012 - May 2015
