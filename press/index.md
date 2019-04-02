@@ -13,7 +13,7 @@ A collection of articles, writings, publications, and projects I've been involve
 *Michael Kuser, RTO Insider*
 
 * [Duke student shares Energy Data Analytics Lab research with North Carolina legislators](https://energy.duke.edu/news/duke-student-shares-energy-data-analytics-lab-research-north-carolina-legislators)  
-*Duke University Energy Initiative*
+*Duke Energy Initiative*
 
 * [Assessing Land Availability for Utility Solar in North Carolina Using GIS](https://dukespace.lib.duke.edu/dspace/handle/10161/14180)  
 *Eric Brawner, Yifu Wang, Janesha Hassaram, Hoël Wiesner*
@@ -25,7 +25,7 @@ A collection of articles, writings, publications, and projects I've been involve
 *Kate Buczek, Michael DeNoia, Eleanor Johnstone, Hoël Wiesner*
 
 * [Nicholas School team races to prize in Fuels Institute competition](https://energy.duke.edu/news/nicholas-school-team-races-prize-fuels-institute-competition)  
-*Duke University Energy Initiative*
+*Duke Energy Initiative*
 
 * [Optimizing the Electricity Bill](https://sites.duke.edu/econhonors/files/2015/06/Hoel-Wiesner.pdf) (pdf)  
 *Hoël Wiesner, Duke Economics Honors Thesis*
