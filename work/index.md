@@ -6,7 +6,7 @@ date: 2018-03-26
 comments: false
 ---
 ## Education
-* * *
+---------
 ### Duke University Nicholas School of the Environment
 May 2017
 * Masters of Environmental Management, Concentration in Energy Economics
