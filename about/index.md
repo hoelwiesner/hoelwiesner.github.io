@@ -7,7 +7,8 @@ comments: false
 ---
     
 ## Pronounciation
-Oh-well. Noël without an N. 
+'[oʊ wɛl]'
+
 
 
 ## Features
