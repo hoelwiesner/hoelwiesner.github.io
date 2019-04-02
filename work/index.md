@@ -7,25 +7,25 @@ comments: false
 ---
 ## Education
 * * *
-**Duke University Nicholas School of the Environment** 
+**Duke University Nicholas School of the Environment**  
 May 2017
 * Masters of Environmental Management, Concentration in Energy Economics
 * Certificate in Geospatial Analysis
 
-**Duke University**
+**Duke University**  
 May 2015
 * B.S. in Economics
 * Certificate in Energy and the Environment
 
-**Sciences Po Paris** 
+**Sciences Po Paris**  
 Fall 2013
 
-**North Carolina School of Science and Math**
+**North Carolina School of Science and Math**  
 May 2011
 
 ## Work Experience
 * * *
-**New York Independent System Operator**, *Associate Analyst* 
+**New York Independent System Operator**, *Associate Analyst*  
 July 2017 - present
 * Oversaw a $2bil/year electric capacity market, running virtual auctions, assisting participants in submitting bids and offers, qualifying generators, auditing contracts, validating prices, and building tools to automate auction-related tasks
 * Participated in the company market design process, rewriting portions of the company tariff and manuals to account for new technologies, legal mandates, and market inefficiencies, while seeking approval from government, business, and advocacy stakeholders
