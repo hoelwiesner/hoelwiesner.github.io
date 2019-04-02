@@ -23,5 +23,5 @@ As of 2019, I believe I am still the only Hoël in the United States, and defini
 
 ## Website Credits
 This website was made using code and open source images:
-* Moon jekyll theme made **[Talan Tatli]**(https://github.com/TaylanTatli/Moon)
-* Puffin Favicon made by **[Freepik]**(https://www.flaticon.com/authors/freepik) from www.flaticon.com 
+* Moon jekyll theme made **[Talan Tatli](https://github.com/TaylanTatli/Moon)**
+* Puffin Favicon made by **[Freepik](https://www.flaticon.com/authors/freepik)** from www.flaticon.com 
