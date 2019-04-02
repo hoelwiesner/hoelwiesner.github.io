@@ -5,7 +5,14 @@ tags: [about, Jekyll, work, experience]
 date: 2018-03-26
 comments: false
 ---
-## Education
+## Sections
+1. [Education](#education)
+2. [Work Experience](#work-exp)
+3. [Third Example](#other-exp)
+4. [Skills](#skills)
+
+
+## Education <a name="education"></a>
 * * *
 **Duke University Nicholas School of the Environment**  
 May 2017
@@ -23,7 +30,7 @@ Fall 2013
 **North Carolina School of Science and Math**  
 May 2011
 
-## Work Experience
+## Work Experience <a name="work-exp"></a>
 * * *
 **New York Independent System Operator**, *Associate Analyst*  
 July 2017 - present
@@ -80,7 +87,7 @@ Summer 2010
 Summer 2009
 * Stocked art supplies and assisted customers in finding the items they needed
 
-## Other Experience
+## Other Experience <a name="other-exp"></a>
 * * *
 **Bull City Grand Prix**, *Race Organizer*  
 September 2015 - May 2015
@@ -99,3 +106,7 @@ February 2012 - February 2015
 **Duke Varsity Fencing**, *Division I Athlete*  
 September 2011 - January 2013
 * Practiced and competed on the Foil squad at a varsity level
+
+## Skills <a name="skills"></a>
+* * *
+
