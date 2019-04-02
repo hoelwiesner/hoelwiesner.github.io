@@ -98,4 +98,4 @@ February 2012 - February 2015
 
 ### Duke Varsity Fencing, *Division I Athlete*
 September 2011 - January 2013
-* Practiced and competed for more than 20 hours a week while taking a full academic course load
+* Practiced and competed on the Foil squad at a varsity level
