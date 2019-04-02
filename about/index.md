@@ -13,7 +13,13 @@ I am skilled in VBA, SQL, Microsoft Excel, ArcGIS, and have some knowledge of Py
 
 ## Pronounciation
 If you're wondering, my name is pronounced [oʊ wɛl] - or "oh-well" - two syllables, with a silent H.  
+
 I'm named after the Celtic mythological [King Hoël](https://en.wikipedia.org/wiki/Hoel), who's name my mom fell in love with while reading the legend of *Tristan and Iseult* shortly before my birth.  
+
 As of 2019, I believe I am still the only Hoël in the United States, and definitely the only Hoël Wiesner in the world. 
 
-
+## Website Credits
+This website was made using code or open source images from:
+* Moon
+* Puffin
+* github
