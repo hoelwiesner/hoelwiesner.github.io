@@ -7,9 +7,9 @@ comments: false
 ---
     
 ## Welcome
-Hello and welcome to my personal website! I'm Hoël, a market operations analyst working on wholesale electricity auctions and energy data analytics. My focus is on spreading knowledge of market rules and drivers to improve stakeholder awareness and increase economic efficiency. I am fascinated by trying to optimize constrained markets, which is why I gravitated towards the electiricty industry. Moving electrons from massive rural generators to load constrained urban centers 
+Hello and welcome to my personal website! I'm Hoël, a market operations analyst working on wholesale electricity auctions and energy data analytics. My focus is on spreading knowledge of market rules and drivers to improve stakeholder awareness and increase economic efficiency. I am fascinated by trying to optimize constrained markets, which is why I gravitated towards the electiricty industry. Moving electrons from massive rural generators to load constrained urban centers is crucial to our industrialized nations. The ongoing transition to a  decentralized, cleaner grid, coupled with market shifts from manufacturing to an internet based economy, pose significant challenges to the hundred year old electric grid. It's a fascinating time to be working in the industry. 
 
-I am skilled in VBA, SQL, Microsoft Excel, ArcGIS, and have some knowledge of Python and R. I also work with various business support platforms including Salesforce, JIRA, and Balsamiq. 
+I am skilled in VBA, SQL, Microsoft Excel, ArcGIS, and have some knowledge of Python and R. I also work with various business support platforms including Salesforce, JIRA, and Balsamiq. I am not a software engineer, but I have enough foundations in coding to understand how how 
 
 ## Pronounciation
 If you're wondering, my name is pronounced [oʊ wɛl] - or "oh-well" - two syllables, with a silent H.  
