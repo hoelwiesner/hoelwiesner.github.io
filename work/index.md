@@ -17,6 +17,12 @@ May 2015
 * B.S. in Economics
 * Certificate in Energy and the Environment
 
+### Sciences Po Paris
+Fall 2013
+
+### North Carolina School of Science and Math
+May 2011
+
 ## Work Experience
 * * *
 ### New York Independent System Operator, *Associate Analyst*
@@ -36,7 +42,7 @@ September 2015 - April 2016
 * Projects focus on themes that surround energy technologies, policies, and economics
 
 ### International Energy Agency, *Renewable Energy Division Intern*
-#### Summer 2014
+Summer 2014
 * Conducted research looking at how electricity rate setting practices affect the profitability of rooftop solar panel installations in countries around the world
 * Contributed to writing and production of two IEA publications on solar photovoltaic energy, government policies, and markets
 
@@ -76,4 +82,20 @@ Summer 2009
 
 ## Other Experience
 * * *
+### Bull City Grand Prix, *Race Organizer*
+September 2015 - May 2015
+* Organized a yearly USA Cycling bike race that attracted more than four hundred racers of all levels, from professionals to amateurs, working with the city of Durham, local businesses, and insurance to close off four major downtown streets
 
+### Duke Housing, Dining and Residence Life, *Resident Assistant*
+August 2014 - May 2015
+* Duke Housing, Dining and Residence Life
+
+### Duke International Relations Association, *Treasurer*
+February 2012 - February 2015
+* Managed a $60,000 budget
+* Processed contracts with Durham businesses, including the Durham Marriott Convention Center, the Millennium Hotel, and the Duke Sanford School of Public Policy
+* Helped organize the Duke high school and college Model UN conferences, turning both into profit-making projects that funded the association’s expansion
+
+### Duke Varsity Fencing, *Division I Athlete*
+September 2011 - January 2013
+* Practiced and competed for more than 20 hours a week while taking a full academic course load
