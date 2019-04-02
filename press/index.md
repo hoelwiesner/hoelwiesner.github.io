@@ -6,7 +6,8 @@ date: 2016-03-21
 comments: false
 ---
     
-Publications, news, articles and writtings by, about, or featuring me.  
+A collection of articles, writings, publications, and projects I've been involved in over the years. 
+
 
 * [NYISO Business Issues Committee Briefs](https://www.rtoinsider.com/nyiso-bic-111379/)  
 *Michael Kuser, RTO Insider*
@@ -23,11 +24,18 @@ Publications, news, articles and writtings by, about, or featuring me.
 * [2016 Fuels Institute Case Competition - Future of Transportation](https://www.fuelsinstitute.org/CMSPages/GetFile.aspx?guid=6ff427d8-0d95-40fc-9c14-df7b1231ac44)  
 *Fuels Institute*
 
+*[Nicholas School team races to prize in Fuels Institute competition](https://energy.duke.edu/news/nicholas-school-team-races-prize-fuels-institute-competition)
+*Duke University Energy Initiative*
+
+* [The Smart E-Highway](https://energy.duke.edu/sites/default/files/images/Future%20of%20Transportation%20proposal%20Wiesner%20et%20al.pdf) (pdf)
+*Kate Buczek, Michael DeNoia, Eleanor Johnstone, Hoël Wiesner*
+
 * [Sketching Charlie](https://www.dukechronicle.com/article/2015/01/sketching-charlie)  
 *Hoël Wiesner, Duke Chronicle*
 
-* [Auctions with Bid Credits and Resale](https://faculty.fuqua.duke.edu/~marx/bio/papers/BidCreditsandResale.pdf)  
+* [Auctions with Bid Credits and Resale](https://faculty.fuqua.duke.edu/~marx/bio/papers/BidCreditsandResale.pdf) (pdf) 
 *Simon Loertscher and Leslie M. Marx, International Journal of Industrial Organization* 
 
-
+* [Optimizing the Electricity Bill](https://sites.duke.edu/econhonors/files/2015/06/Hoel-Wiesner.pdf) (pdf) 
+*Hoël Wiesner, Duke Economics Honors Thesis*
 
