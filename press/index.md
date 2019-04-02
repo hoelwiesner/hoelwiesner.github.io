@@ -15,6 +15,9 @@ A collection of articles, writings, publications, and projects I've been involve
 * [Duke student shares Energy Data Analytics Lab research with North Carolina legislators](https://energy.duke.edu/news/duke-student-shares-energy-data-analytics-lab-research-north-carolina-legislators)  
 *Duke University Energy Initiative*
 
+* [Assessing Land Availability for Utility Solar in North Carolina Using GIS](https://dukespace.lib.duke.edu/dspace/handle/10161/14180)  
+*Eric Brawner, Yifu Wang, Janesha Hassaram, Hoël Wiesner*
+
 * [Aerial imagery object identification dataset for building and road detection, and building height estimation](https://figshare.com/collections/Aerial_imagery_object_identification_dataset_for_building_and_road_detection_and_building_height_estimation/3290519)  
 *Kyle Bradbury et al., figshare*
 
@@ -24,7 +27,7 @@ A collection of articles, writings, publications, and projects I've been involve
 * [2016 Fuels Institute Case Competition - Future of Transportation](https://www.fuelsinstitute.org/CMSPages/GetFile.aspx?guid=6ff427d8-0d95-40fc-9c14-df7b1231ac44)  
 *Fuels Institute*
 
-*[Nicholas School team races to prize in Fuels Institute competition](https://energy.duke.edu/news/nicholas-school-team-races-prize-fuels-institute-competition)
+* [Nicholas School team races to prize in Fuels Institute competition](https://energy.duke.edu/news/nicholas-school-team-races-prize-fuels-institute-competition)
 *Duke University Energy Initiative*
 
 * [The Smart E-Highway](https://energy.duke.edu/sites/default/files/images/Future%20of%20Transportation%20proposal%20Wiesner%20et%20al.pdf) (pdf)
