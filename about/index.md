@@ -20,7 +20,8 @@ I'm named after the Celtic mythological [King Hoël](https://en.wikipedia.org/wi
 
 As of 2019, I believe I am still the only Hoël in the United States, and definitely the only Hoël Wiesner in the world. 
 
-## Website Credits
-This website was made using code or open source images from:
+
+**Website Credits**
+This website was made using code and open source images:
 * Moon jekyll theme made **[Talan Tatli]**(https://github.com/TaylanTatli/Moon)
 * Puffin Favicon made by **[Freepik]**(https://www.flaticon.com/authors/freepik) from www.flaticon.com 
