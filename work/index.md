@@ -8,7 +8,7 @@ comments: false
 ## Sections
 1. [Education](#education)
 2. [Work Experience](#work-exp)
-3. [Third Example](#other-exp)
+3. [Other Experience](#other-exp)
 4. [Skills](#skills)
 
 
@@ -109,4 +109,12 @@ September 2011 - January 2013
 
 ## Skills <a name="skills"></a>
 * * *
+**Language**  
+Native English and French
+
+**Computer**  
+Microsoft Office, VBA, SQL, Python, JIRA, Balsamiq, Salesforce, ArcGIS
+
+**Certifications**
+NYISO Market Training (various), ISO-NE Forward Capacity Markets, NERC Concepts of Electric System Operations
 
