@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Hobbies
-tags: [about, Jekyll, theme, moon]
-date: 2019-04-02
+layout: post-list
+title: Hobbies and Stories
+excerpt: "Blog posts about my interests"
 comments: false
 ---
