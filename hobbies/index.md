@@ -1,28 +1,7 @@
 ---
 layout: page
-title: About the Theme
+title: Hobbies
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2019-04-02
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-
-
-## Cycling
-
-{% capture images %}
-    https://raw.githubusercontent.com/hoelwiesner/hoelwiesner.github.io/master/assets/img/IMG_1144.jpg 
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Cooking & Baking
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
