@@ -7,7 +7,7 @@ tags: [cycling, data]
 comments: true
 ---
 
-*tl;dr - Lidl near the finish line? High probability that EQS will shine.*
+*A joke between friends taken too far. I did this analysis and write-up during the 2016 Tour de France and [posted it to reddit](https://www.reddit.com/r/peloton/comments/4rk5y7/the_eqslidl_podium_conspiracy_theory/)*
 
 **Introduction**
 
