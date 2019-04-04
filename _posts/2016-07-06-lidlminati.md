@@ -4,6 +4,7 @@ title: "The EQS-Lidl Podium Conspiracy Theory"
 date: 2016-07-06
 excerpt: "A joke about cycling statistics taken too far. GIS analysis was involved."
 tags: [cycling, data]
+feature: https://i.imgur.com/QKwj011.png
 comments: true
 ---
 
