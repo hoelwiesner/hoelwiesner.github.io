@@ -7,13 +7,13 @@ tags: [cycling, data]
 comments: true
 ---
 
-*A joke between friends taken too far. I did this analysis and write-up during the 2016 Tour de France and [posted it to reddit](https://www.reddit.com/r/peloton/comments/4rk5y7/the_eqslidl_podium_conspiracy_theory/)*
+*A joke between friends taken too far. I did this analysis and write-up during the 2016 Tour de France and posted it to [the pro-cycling subreddit](https://www.reddit.com/r/peloton/comments/4rk5y7/the_eqslidl_podium_conspiracy_theory/) where, at the time, it became one of the top 10 posts in the community's history.* 
 
 **Introduction**
 
 Sport fans are superstitious. It’s a fact of nature. That’s why we wear our special socks on race day and always sit in the same spot at the bar. We also come to believe that certain teams or athletes are cursed, like Sagan, GvA, or Sep Vanmarcke always finishing second, Richie Porte inevitably suffering a mechanical just outside the 3km mark, or the Rainbow Jersey tanking a rider’s career.
 
-So yesterday, while reading through the Race Thread comments, I ran across /u/Sappert’s interesting theory that Etixx Quickstep riders are only successful when there’s a Lidl near the finish. For those of you who aren’t aware, Lidl is a German Supermarket company that has stores all around Europe and became a main EQS sponsor for the 2016 season.
+So yesterday, while reading through the Race Thread comments, I ran across [/u/Sappert’s interesting theory](https://www.reddit.com/r/peloton/comments/4r7vqq/predictions_thread_tour_de_france_stage_4_saumur/d4za2go/) that Etixx Quickstep riders are only successful when there’s a Lidl near the finish. For those of you who aren’t aware, Lidl is a German Supermarket company that has stores all around Europe and became a main EQS sponsor for the 2016 season.
 
 “Hmm… what an interesting theory,” I thought to myself. “I wonder how much truth it holds?” This of course meant that I had to investigate. Could Lidls near the finish be a predictor for an EQS podium finish? I had to find out.
 
