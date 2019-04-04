@@ -5,7 +5,7 @@ tags: [about, Jekyll, work, experience]
 date: 2018-03-26
 comments: false
 ---
-<center><a href="https://drive.google.com/file/d/1S_d6dGLGXp27NFMQS8tAqegjTtE0Liaa/view?usp=sharing"><b>Official CV Download</b></a></center>
+<center><a href="https://drive.google.com/file/d/1S_d6dGLGXp27NFMQS8tAqegjTtE0Liaa/view?usp=sharing"><b>Résumé Download</b></a></center>
 
 ## Sections
 1. [Education](#education)
