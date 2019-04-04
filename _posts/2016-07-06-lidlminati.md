@@ -24,7 +24,7 @@ This question required two pieces of data: (1) European Lidl locations, and (2) 
 I then counted how many Lidl’s were in each finishing city. I did this in ArcGIS by creating buffers of various sizes around city centers and totaling the number of supermarkets within them. I eventually settled on a 10km buffer around the city center, because European cities are small and that seemed like a reasonable, arbitrary distance to pick. You can see all this in this map, and find the underlying data for [races here](https://drive.google.com/file/d/0B0RSlki1E4zOMUpBdzFIeS1fbnM/view?usp=drive_open) and [Lidls here](https://drive.google.com/open?id=0B0RSlki1E4zOeXlpV2hFQjlEN3M).
 
 <figure>
-	<a href="http://i.imgur.com/qUMMqoq.jpg"><img src="http://i.imgur.com/qUMMqoq.jpg"></a>
+	<a href="http://i.imgur.com/qUMMqoq.jpg"><img src="http://i.imgur.com/qUMMqoq.jpg?1"></a>
 	<figcaption>Map of Lidls and EQS Podium Finishes.</figcaption>
 </figure>
 
