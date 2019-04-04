@@ -8,7 +8,7 @@ feature: https://i.imgur.com/QKwj011.png?1
 comments: true
 ---
 
-*A joke between friends taken too far. I did this analysis and write-up during the 2016 Tour de France and posted it to [the pro-cycling subreddit](https://www.reddit.com/r/peloton/comments/4rk5y7/the_eqslidl_podium_conspiracy_theory/) where, at the time, it became one of the top 10 posts in the community's history.* 
+*A joke between friends taken too far. I did this analysis and write-up during the 2016 Tour de France and posted it to [the pro-cycling subreddit](https://www.reddit.com/r/peloton/) where, at the time, it became one of the top 10 posts in the community's history.* 
 
 **Introduction**
 
