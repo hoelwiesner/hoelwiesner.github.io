@@ -4,8 +4,8 @@ bio:                'Franco-American market operations analyst working in electr
 description:        "Personal website for Hoël Wiesner"
 reading_time:       False
 words_per_minute:   200
-logo:               'assets/img/hoelHeadshot.jpg'
-background:         'assets/img/damsBackground.jpg'
+logo:               'assets/img/mirrorHeadshot.jpg'
+background:         'assets/img/turkeyBackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://hoelwiesner.github.io/
