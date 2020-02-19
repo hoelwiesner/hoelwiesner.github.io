@@ -1,11 +1,11 @@
 # Site
 title:              Hoël Wiesner
-bio:                'Franco-American market operations analyst working in electricity markets, collecting hobbies on the side'
+bio:                'The personal website of an amateur adventurer, budding builder, and wannabe writer.'
 description:        "Personal website for Hoël Wiesner"
 reading_time:       False
 words_per_minute:   200
 logo:               'assets/img/mirrorHeadshot.jpg'
-background:         'assets/img/turkeyBackground.jpg'
+background:         'assets/img/ballonBackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://hoelwiesner.github.io/
